@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  art: MyString
+  description: MyString
+  multiplier: 1
+  unit: one
+
+two:
+  art: MyString
+  description: MyString
+  multiplier: 1
+  unit: two
